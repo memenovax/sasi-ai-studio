@@ -74,7 +74,6 @@ if prompt := st.chat_input("Sasi AI Bot එක්ක කතා කරන්න..
 # --- Additional UI/UX elements ---
 st.sidebar.title("ගැන")
 st.sidebar.info(
-    "Sasi AI Studio කියන්නේ Google Gemini AI API එක පාවිච්චි කරලා හදපු සරල AI Chatbot එකක්. "
-    "මේක හදලා තියෙන්නේ කැම්පස් Project එකක් සඳහා. "
+    "Sasi AI Studio"
     "මට ඔයාගේ ප්‍රශ්නවලට උත්තර දෙන්න, කතන්දර කියන්න, අලුත් දේවල් කියා දෙන්න පුළුවන්."
 )
